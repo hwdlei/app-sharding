@@ -1,19 +1,7 @@
-target
-.attach*
-.DS_Store
-*.db
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.ipr
-*.iml
-
-### Eclipse ###
-.project
-.classpath
-.settings/
-.factorypath
-
-doc/_book
-console/web/node/
+/**/.classpath
+/**/.project
+/**/.settings/
+/**/target/
+/**/logs/
+/**/*.iml
+.idea/
